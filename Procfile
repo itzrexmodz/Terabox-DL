@@ -1,1 +1,1 @@
-web: npm install && npm run deploy
+web: npm install wrangler && npm run deploy
